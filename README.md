@@ -2,4 +2,4 @@
 
 ## Resultados competencia clase 05 - Micaela Tokashiki
 
-Modelos aplicados: KNN Regression, SVR
+Modelos aplicados: KNN Regression, SVR, Random Forest Regression
