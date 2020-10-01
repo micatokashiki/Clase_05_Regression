@@ -1,5 +1,5 @@
 # ClusterAI 2020
 
-## Resultados clase 05 - Micaela Tokashiki
+## Resultados clase 05 - Modelos de Regresión
 
-Modelos aplicados: KNN Regression, SVR, Random Forest Regression.
+Modelos utilizados: KNN regression, Random Forest Regression, SVR 
