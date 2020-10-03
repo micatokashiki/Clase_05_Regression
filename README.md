@@ -1,5 +1,5 @@
 # ClusterAI 2020
 
-## Resultados clase 05 - Modelos de Regresión
+## Resultados y ejercicios resueltos
 
-Modelos utilizados: KNN regression, Random Forest Regression, SVR 
+Repositorio con todos los notebooks y códigos utilizados en cada clase, más los ejercicios resueltos.
